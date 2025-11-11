@@ -1,6 +1,7 @@
 Trabajo Práctico Integrador (TPI): Gestión de Datos de Países en Python
 Alumnos: Lucas Matias Catanzaro y Emiliano Fiscina. Grupo 27.
 Docentes: Cinthia Rigoni, Tutor Brian Lara c3 y Tutor Ana Mutti c4
+
 El trabajo se desarrollará en etapas, donde cada una se enfocará en la composición que tendrá nuestro programa.
 Etapa 1: Carga y Visualización de Datos
 1.	Carga de Datos: Crear una función en Python que lea los datos de los países desde un archivo.CSV

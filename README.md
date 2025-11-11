@@ -80,3 +80,20 @@ Ejecución de Funciones: según la opción seleccionada llama a la función que 
 se ejecuta, opera sobre lista_paises y muestra un resultado.
 Pausa: Después de cada operación (o error de opción), el programa se pausa esperando que el usuario presione Enter, lo que permite ver los resultados antes de que la pantalla se limpie para el siguiente menú.
 Fin: El bucle se rompe (break) solo si el usuario elige la opción 8 (Salir).
+
+Funciones del equipo
+Actividad 	Emiliano Fiscina	Lucas Catanzaro
+Formulacion del proyecto	si	si
+Recopilacion de informacion 	si 	si 
+Armado de archivo	si	control
+Generacion de codigo	Testeo 	Inicio del programa
+Definicion de funciones	Testeo 	Definicion de pasos
+Finalizacion de programa	Testo y simulacion de Usuario	Finalizacion de programa
+Modificaciones 	Analisis de funcionamiento y actualizaciones	Analisis de funcionamiento y actualizaciones
+
+El desarrollo de nuestro programa fue fruto de la colaboración, cada una con un rol bien definido y complementario. Este enfoque permitió una entrega ágil y de alta calidad del software.
+Lucas asumió la responsabilidad principal de la programación. Su función fue la de escribir el código fuente, implementar todas las características y funcionalidades requeridas. Se centró en la lógica interna, la optimización y el rendimiento, traduciendo los requisitos del proyecto en un producto funcional. Mientras que Emiliano hacia analisis de cada paso y testeo  de validaciones para que los errores sean minimos al momento que finalizemos el programa. Nuestra comunicación fue mediante mail personales y llamadas para poder trabajar en conjunto.
+La funcion de tester y gestor de la calidad fue responsable de identificación de errores: Ejecutar rigurosas pruebas de funcionalidad y usabilidad detalles como el acento en palabras de continente genero problemas al momento de listar.
+Corrección de Errores: Trabajamos en conjunto con Lucas  no solo reportandonos los problemas, sino también asistiendo y realizando directamente las correcciones necesarias en el código para resolver los fallos encontrados.
+La dinámica de este equipo de dos personas se basó en un ciclo constante de programación, prueba y refinamiento, pudimos enfocarnos en crear funcionalidad del programa, mientras que el tester garantizó que cada pieza de código cumpliera con los requisitos necesarios para poder desarrollar el programa. Esta división clara de roles y la comunicación constante fueron clave para completar el programa de manera eficiente y con un producto final sólido y bien probado.
+
